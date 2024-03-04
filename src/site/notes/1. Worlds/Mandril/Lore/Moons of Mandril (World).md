@@ -10,4 +10,3 @@ Insert to load moon calendar:
 		width=100%
 		height="500"
 		src="https://donjon.bin.sh/fantasy/calendar/"></iframe>
-![[paper551.pdf\|paper551.pdf]]
