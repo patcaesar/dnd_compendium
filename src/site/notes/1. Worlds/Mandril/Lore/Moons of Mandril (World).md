@@ -14,7 +14,7 @@ Mandril (World) (aktuell wissen wir nicht, wie die Welt heißt auf der der Konti
 
 ### Tianus
 -Zyklus: 34 Tage
--Färbung: Rot
+-Färbung: Blau
 -Offset zum Jahr 0: 25 Tage
 
 
