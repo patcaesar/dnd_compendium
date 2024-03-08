@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-journals/mandril/campaign-b-and-b/0-p-cs/played-characters/"}
+{"dg-publish":true,"permalink":"/2-journals/mandril/campaign-b-and-b/0-p-cs/played-characters/","dgPassFrontmatter":true}
 ---
 
 | *Charakter* | *Spieler* | *Klasse* |
