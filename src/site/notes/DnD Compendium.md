@@ -21,6 +21,6 @@ Lore:
 ### Etwas funktioniert auf der Website nicht?
 Das ist leider so. Das Compendium ist optimiert für Obsidian. Vielleicht lädst du dir das Tool einfach runter. Es bietet auch tolle Sachen, wie einen Outlook-Like Fantasy Kalender und Eventtimelines. Zudem kannst du dann deinen Charakter und Sessions selber anpassen. Alles was du brauchst ist Obsidian (https://obsidian.md/download) und Zugriff zum Google Drive. Für Risiken und Nebenwirkungen fragen Sie ihren DM oder Spieler Ihres Vertrauens.
 
-# PDF 6
-<embed src="Session 2024.03.07.pdf" type="application/pdf" width="100%" />
+# PDF 5
+<embed src="/img/Session 2024.03.07.pdf" type="application/pdf" width="100%" />
 
