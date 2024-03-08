@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-worlds/mandril/lore/mandrillian-calendar/"}
+{"dg-publish":true,"permalink":"/1-worlds/mandril/lore/mandrillian-calendar/","dgPassFrontmatter":true}
 ---
 
 # Übersicht
