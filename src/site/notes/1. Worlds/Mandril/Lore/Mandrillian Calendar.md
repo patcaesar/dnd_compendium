@@ -43,3 +43,4 @@ In weiten Teilen [[1. Worlds/Mandril/Locations/Continents/Mandril/Mandril\|Mandr
 
 ### Niederschreibung des Kalender aus Bibliothek Domum ca. 738 ADD
 ![[Mandrillian Calendar.pdf]]
+<embed src="/img/Mandrillian Calendar.pdf" type="application/pdf" width="100%" height=500 />
