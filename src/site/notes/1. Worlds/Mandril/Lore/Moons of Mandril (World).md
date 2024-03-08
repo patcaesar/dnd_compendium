@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-worlds/mandril/lore/moons-of-mandril-world/"}
+{"dg-publish":true,"permalink":"/1-worlds/mandril/lore/moons-of-mandril-world/","dgPassFrontmatter":true}
 ---
 
 
