@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-journals/mandril/campaign-b-and-b/campaign-b-and-b/"}
+{"dg-publish":true,"permalink":"/2-journals/mandril/campaign-b-and-b/campaign-b-and-b/","dgPassFrontmatter":true}
 ---
 
 #tbd 
