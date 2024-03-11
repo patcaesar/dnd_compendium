@@ -12,4 +12,4 @@
 | [[1. Worlds/Mandril/PCs/Nolan Wisebreath\|Nolan Wisebreath]] | Manuel | Wizard |
 | [[1. Worlds/Mandril/PCs/Terrol Rosscall\|Terrol Rosscall]] | Tobias | Ranger |
 | [[1. Worlds/Mandril/PCs/Karad Longhorn\|Karad Longhorn]] | David | Fighter |
-| [[1. Worlds/Mandril/PCs/Otto Longhorn\|Otto Longhorn]] | Eva | Sorcerer |
+| [[1. Worlds/Mandril/PCs/Otto\|Otto]] | Eva | Sorcerer |
