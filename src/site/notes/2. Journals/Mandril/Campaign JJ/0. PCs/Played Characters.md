@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-journals/mandril/campaign-jj/0-p-cs/played-characters/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-journals/mandril/campaign-jj/0-p-cs/played-characters/"}
 ---
 
 | *Charakter* | *Spieler* | *Klasse* |
