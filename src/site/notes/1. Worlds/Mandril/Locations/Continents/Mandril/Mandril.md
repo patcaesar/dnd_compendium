@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-worlds/mandril/locations/continents/mandril/mandril/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-worlds/mandril/locations/continents/mandril/mandril/"}
 ---
 
 #tbd
