@@ -47,7 +47,7 @@ In den folgenden Jahren lernte Liep in der Wildnis zu überleben. Er beherrschte
 ### Aussehen
 
 ### Besondere Items
-
+Bogen
 ### Bilder Galerie
 Liep Carnage mit 12 Jahren:
 ![Liep_Carnage_Young.jpeg](/img/user/z_Attachments/Liep_Carnage_Young.jpeg)
