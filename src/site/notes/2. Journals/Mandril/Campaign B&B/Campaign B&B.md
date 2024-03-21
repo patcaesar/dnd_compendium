@@ -29,8 +29,8 @@ Hier muss noch Text über Buri and the Brains kommen
 - [[2. Journals/Mandril/Campaign B&B/2. Act/2024-02-22\|2024-02-22]]
 - [[2. Journals/Mandril/Campaign B&B/2. Act/2023-05-10\|2023-05-10]]
 - [[2. Journals/Mandril/Campaign B&B/2. Act/2023-03-21\|2023-03-21]]
-- [[2. Journals/Mandril/Campaign B&B/2. Act/2023-02-29\|2023-02-29]]
 - [[2. Journals/Mandril/Campaign B&B/2. Act/2024-03-07\|2024-03-07]]
+- [[2. Journals/Mandril/Campaign B&B/2. Act/2023-02-28\|2023-02-28]]
 
 { .block-language-dataview}
 
