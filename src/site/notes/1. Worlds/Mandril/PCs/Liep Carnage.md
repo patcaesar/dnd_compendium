@@ -9,7 +9,7 @@
 > # Liep Carnage
 > ![Liep_Carange.png](/img/user/z_Attachments/Liep_Carange.png)
 > ###### Grundinformationen
->  |   |
+>  Info|  |
 > ---|---|
 > Aliase | - |
 > Geschlecht | männlich |
@@ -22,7 +22,7 @@
 > Allianzen | [[1. Worlds/Mandril/PCs/Lupeusus\|Lupeusus]], [[2. Journals/Mandril/Campaign JJ/Campaign JJ\|Jürgens Jungs]], [[2. Journals/Mandril/Campaign B&B/Campaign B&B\|Buri and the Brainz]]
 > Alignment | chaotic neutral |
 > ###### Metainformationen
->  |   |
+>  Info|   |
 > ---|---|
 > Klasse(n) | Ranger |
 > Sub-Klasse(n) | Beast Conclave (Unearthed Arcana) |
