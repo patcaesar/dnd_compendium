@@ -21,5 +21,5 @@ Mandril (World) (aktuell wissen wir nicht, wie die Welt heißt auf der der Konti
 Irgendwie passt der hier nicht mit dem Kalender in Obsidian.
 Um sich den Mondkalender Online anzusehen einfach hier klicken: https://donjon.bin.sh/fantasy/calendar/
 
-Unter Save/Restore bitte folgendes eintragen: 
-{"year_len":365,"events":0,"n_months":13,"months":[],"month_len":{"0":30,"1":30,"2":30,"3":30,"4":30,"5":30,"6":30,"7":30,"8":30,"9":30,"10":30,"11":30,"12":5},"week_len":10,"weekdays":[],"n_moons":2,"moons":["Hiate","Tianus"],"lunar_cyc":{"Hiate":34,"Tianus":44},"lunar_shf":{"Hiate":31,"Tianus":15},"year":0,"first_day":0,"notes":{}}
+Unter Save/Restore bitte folgendes eintragen (ohne Anführungszeichen): 
+"{"year_len":365,"events":0,"n_months":13,"months":[],"month_len":{"0":30,"1":30,"2":30,"3":30,"4":30,"5":30,"6":30,"7":30,"8":30,"9":30,"10":30,"11":30,"12":5},"week_len":10,"weekdays":[],"n_moons":2,"moons":["Hiate","Tianus"],"lunar_cyc":{"Hiate":34,"Tianus":44},"lunar_shf":{"Hiate":31,"Tianus":15},"year":0,"first_day":0,"notes":{}}"
