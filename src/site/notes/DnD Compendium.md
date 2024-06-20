@@ -11,6 +11,8 @@ Hier gehts zur [[2. Journals/Mandril/Campaign B&B/Campaign B&B\|Campaign B&B]]
 
 Hier gehts zur [[2. Journals/Mandril/Campaign JJ/Campaign JJ\|Campaign JJ]]
 
+Hier gehts zur [[2. Journals/Mandril/Campaign LFD/Campaign LFD\|Campaign LFD]]
+
 
 Lore:
 - [[1. Worlds/Mandril/Lore/Mandrillian Calendar\|Mandrillian Calendar]]
