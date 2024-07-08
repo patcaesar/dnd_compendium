@@ -15,8 +15,8 @@ Hier gehts zur [[2. Journals/Mandril/Campaign LFD/Campaign LFD\|Campaign LFD]]
 
 
 Lore:
-- [[1. Worlds/Mandril/Lore/Mandrillian Calendar\|Mandrillian Calendar]]
 - [[1. Worlds/Mandril/Lore/Moons of Mandril (World)\|Moons of Mandril (World)]]
+- [[1. Worlds/Mandril/Lore/Mandrillian Calendar\|Mandrillian Calendar]]
 
 { .block-language-dataview}
 
