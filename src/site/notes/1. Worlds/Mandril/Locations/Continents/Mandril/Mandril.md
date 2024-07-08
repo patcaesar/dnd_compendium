@@ -3,7 +3,7 @@
 ---
 
 
-Mandril ist ein Kontinent auf der gleichnamigen Welt. Lose unterteilt in mehrere Regionen, deren Grenzen über die Jahrhunderte und verschiedenen Regierungsformen recht stabil blieben.
+[[1. Worlds/Mandril/Locations/Continents/Mandril/Mandril\|Mandril]] ist ein Kontinent auf der gleichnamigen Welt. Lose unterteilt in mehrere Regionen, deren Grenzen über die Jahrhunderte und verschiedenen Regierungsformen recht stabil blieben.
 
 Die fünf Regionen alphabetisch sortiert:
 [[Andergast\|Andergast]], [[Nemornom\|Nemornom]], [[1. Worlds/Mandril/Locations/Continents/Mandril/Olena/Olena\|Olena]], [[1. Worlds/Mandril/Locations/Continents/Mandril/Rexia/Rexia\|Rexia]], [[Rumburak\|Rumburak]]
