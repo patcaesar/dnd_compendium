@@ -6,7 +6,8 @@
 Diese Kurz-Kampagne beschreibt den Fall Lorans im Jahr 685 ADD durch eine waghalsige Rebellengruppe
 
 ### Session List
-- [[2. Journals/Mandril/Campaign LFD/Campaign LFD\|Campaign LFD]]
 - [[2. Journals/Mandril/Campaign LFD/2024-06-19\|2024-06-19]]
+- [[2. Journals/Mandril/Campaign LFD/Campaign LFD\|Campaign LFD]]
+- [[2. Journals/Mandril/Campaign LFD/2024-07-01\|2024-07-01]]
 
 { .block-language-dataview}
