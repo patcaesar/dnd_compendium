@@ -5,6 +5,6 @@
 
 #tbd
 
-Rexia ist eine der Regionen des Kontinents [[1. Worlds/Mandril/Locations/Continents/Mandril/Mandril\|Mandril]].
+[[1. Worlds/Mandril/Locations/Continents/Mandril/Rexia/Rexia\|Rexia]] ist eine der Regionen des Kontinents [[1. Worlds/Mandril/Locations/Continents/Mandril/Mandril\|Mandril]].
 
 ## Karte von Rexia
