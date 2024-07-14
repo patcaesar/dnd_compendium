@@ -7,7 +7,7 @@
 
 > [!infobox]
 > # Tomboliin
-> ![character_portrait_placeholder.png](/img/user/z_Attachments/character_portrait_placeholder.png)
+> ![Tomboliin Face.jpeg](/img/user/z_Attachments/Tomboliin%20Face.jpeg)
 > ###### Grundinformationen
 >  Info|  |
 > ---|---|
@@ -36,7 +36,8 @@ unbekannt
 
 ### Eigenheiten
 
--
+Durch sein Alter ist [[1. Worlds/Mandril/PCs/Tomboliin\|Tomboliin]] inzwischen schwerhörig geworden.
+Auf seiner Schulter trägt er seine zahme Schnecke mit sich herum.
 
 ### Aussehen
 
