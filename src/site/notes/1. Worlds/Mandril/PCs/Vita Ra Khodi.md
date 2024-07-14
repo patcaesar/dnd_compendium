@@ -32,11 +32,11 @@
 
 ### Vorgeschichte 
 
-[[1. Worlds/Mandril/PCs/Vita Ra Khodi\|Vita]] ist häufig im [[1. Worlds/Mandril/Locations/Continents/Mandril/Rexia/Ocenia/Dipontum/Tempel des Azuth - Dipontum\|Tempel des Azuth]] in [[1. Worlds/Mandril/Locations/Continents/Mandril/Rexia/Ocenia/Dipontum/Dipontum\|Dipontum]] anzutreffen, für den sie auch häufiger Aufträge ausführt.
+[[1. Worlds/Mandril/PCs/Vita Ra Khodi\|Vita]] ist häufig im [[1. Worlds/Mandril/Locations/Continents/Mandril/Rexia/Ocenia/Dipontum/Tempel des Azuth\|Tempel des Azuth]] in [[1. Worlds/Mandril/Locations/Continents/Mandril/Rexia/Ocenia/Dipontum/Dipontum\|Dipontum]] anzutreffen, für den sie auch häufiger Aufträge ausführt.
 
 ### Eigenheiten
 
--
+[[1. Worlds/Mandril/PCs/Vita Ra Khodi\|Vita]] scheint mit Geld eher freizügig umgehen zu können, ohne dass direkt klar ist, woher sie das haben könnte.
 
 ### Aussehen
 
@@ -44,7 +44,7 @@
 
 ### Besondere Items
 
--
+[[Vita\|Vita]] trägt an der rechten Hand einen etwas prunkvolleren Ring, der von ihrem sonstigen eher unauffälligem Auftreten abweicht.
 
 ### Bilder Galerie
 
