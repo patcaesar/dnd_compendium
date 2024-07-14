@@ -11,7 +11,7 @@
 > ###### Grundinformationen
 >  Info|  |
 > ---|---|
-> Aliase | - |
+> Aliase | Bart |
 > Geschlecht | männlich |
 > Rasse | Halb-Elf |
 > Geburtsort | ? |
