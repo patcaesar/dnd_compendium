@@ -15,5 +15,6 @@ Die Erfolge der Rebellen sind eher bescheiden und sie halten sich auch eher bede
 - [[2. Journals/Mandril/Campaign LFD/2024-06-19\|2024-06-19]]
 - [[2. Journals/Mandril/Campaign LFD/Campaign LFD\|Campaign LFD]]
 - [[2. Journals/Mandril/Campaign LFD/2024-07-01\|2024-07-01]]
+- [[2. Journals/Mandril/Campaign LFD/2024-07-15\|2024-07-15]]
 
 { .block-language-dataview}
